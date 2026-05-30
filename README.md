@@ -347,7 +347,7 @@ The PC1 score was translated into policy categories to make the PCA output usefu
 ### What each chart tells you
 #### **Scree plot insight**
 
-Your scree plot should show a sharp drop after PC1–PC3.
+scree plot should show a sharp drop after PC1–PC3.
 
 The first three PCs are enough to explain most of the structure.
 
