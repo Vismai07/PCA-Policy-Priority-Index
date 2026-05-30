@@ -1,10 +1,10 @@
-# Constructing-a-Socio-Economic-Development-Index-for-Indian-States-
+# PCA-Policy-Priority-Index
 
 ### The main question of this project is:
 Can we use multiple development indicators to create a single data-driven policy priority index for comparing emerging economies?
 
 
-Instead of judging a countries only on basis of GDP, we combine income, health, education, inflation, unemployment, eloectricity, internet, trade and mortality indicators to understand which countries are doing better and which contries need strong policy attention.
+Instead of judging a countries only on basis of GDP, we combine income, health, education, inflation, unemployment, electricity, internet, trade and mortality indicators to understand which countries are doing better and which countries need strong policy attention.
 
 ### Reason For This Project
 
@@ -12,9 +12,9 @@ A country may have high GDP but poor education. Another may have good health but
 
 So we wanted we wanted a method to combine many indicators into smaller number of meaningful hidden dimensions 
 
-That is why we selected **PCA(Principal Componebt Analysis)**
+That is why we selected **PCA(Principal Component Analysis)**
 
-PCA helps us answer &\rightarrow$ Out of many indicartors, what are main hidden development patterns
+PCA helps us answer &\rightarrow$ Out of many indicators, what are main hidden development patterns
 
 ### Why we selected World Bank data
 
@@ -24,7 +24,7 @@ So instead of manually downloading messy tables from the website, we used the AP
 
 This made the project more professional because we created a reproducible data pipeline.
 
-### Countries that were slected:
+### Countries that were selected:
 India
 China
 Brazil
